@@ -55,7 +55,7 @@ export default function Contact() {
         className="mt-16 flex flex-col dark:text-black "
         target="_blank"
         onSubmit={onSubmit}
-        action="https://formsubmit.co/kumarhukum01@gmail.com"
+        action="https://formsubmit.co/06d3213bcaa703334d64a51410fa4b7e"
         method="POST"
       >
         <input
