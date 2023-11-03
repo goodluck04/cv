@@ -52,7 +52,7 @@ export default function Contact() {
       </p>
 
       <form
-        className="mt-10 flex flex-col dark:text-black"
+        className="mt-16 flex flex-col dark:text-black "
         target="_blank"
         onSubmit={onSubmit}
         action="https://formsubmit.co/kumarhukum01@gmail.com"
